@@ -1,0 +1,94 @@
+{
+  "device": "ios",
+  "steps": [
+    {
+      "title": "Passphrases",
+      "main": {
+        "text": [
+          "Is your cell phone locked with a long, random password, not a thumbprint?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "No"
+        }
+      },
+      "back": {
+        "text": [
+          "<strong>You need to lock your phone.</strong> Even if you’ve encrypted your messages, someone who picks up your phone may be able to access anything on it if it’s not locked. Use at least 6 digits, and set your phone to wipe itself after a certain amount of password attempts. Roll some dice to get the numbers, if you want. If you’re worried about government surveillance, like police or customs officials, <a href=\"//mashable.com/2014/10/30/cops-can-force-you-to-unlock-phone-with-fingerprint-ruling\" target=\"_blank\">don’t use a fingerprint</a>",
+          "<a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#creating-strong-passwords\" target=\"_blank\">Read more about passwords here.</a>"
+        ],
+        "buttons": {
+          "next": "OK"
+        }
+      }
+    },
+    {
+      "title": "Messaging",
+      "main": {
+        "text": [
+          "Messaging apps like Facebook Messenger, Twitter DMs and SMS are easily accessed by bad actors and government spies.",
+          "Have you replaced less secure messaging with a service like Signal that uses end-to-end encryption, which means it’s virtually impossible to spy on?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "No"
+        }
+      },
+      "back": {
+        "text": [
+          "Encryption is a way of encoding messages so that only the intended recipient can read the content. Facebook Messenger has recently added encryption, but it’s not the default so you have to turn it on. Apps like Facebook and Twitter are not dependably secure forms of communication. Neither is SMS.",
+          "You may not feel like you need to use secure messages, but it’s still important - You don’t necessarily know the security needs of all the people you are communicating with. Encourage all your contacts to switch to Signal full-time and make your whole community more safe."
+        ],
+        "buttons": {
+          "link": {
+            "url": "https://itunes.apple.com/us/app/signal-private-messenger/id874139669",
+            "text": "Get Signal"
+          },
+          "next": "Done"
+        }
+      }
+    },
+    {
+      "title": "VPN",
+      "main": {
+        "text": ["Do you use  a VPN (Virtual Private Network)? It secures your internet connection to guarantee that the data you're sending and receiving is encrypted and secured from prying eyes."],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "A VPN (Virtual Private Network) encrypts your web traffic, making it very difficult for your Internet Service Provider, the NSA, or some creep on Starbucks WiFi to monitor your internet activity. Most VPNs charge a small fee, but it’s well worth the cost if you spend a lot of time working away from home, or on torrent sites.",
+          "<a href=\"http://www.getavpn.org/\" target=\"_blank\">Get a VPN.</a>",
+          "This VPN subscription can be used on up to 5 devices, including your phone and computer."
+        ],
+        "buttons": {
+          "next": "Done"
+        }
+      }
+    },
+    {
+      "title": "Updates",
+      "main": {
+        "text": [
+          "System updates regularly include security patches for newly discovered vulnerabilities. One of the most common reasons that people get hacked is because they are running outdated software on their devices.",
+          "Have you installed all recent updates?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "Find out how to update your device here:",
+          "<a href=\"https://support.apple.com/en-us/HT204204\" target=\"_blank\">Update</a>"
+        ],
+        "buttons": {
+          "next": "OK, Done"
+        }
+      }
+    }
+  ]
+}

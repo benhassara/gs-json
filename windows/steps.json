@@ -1,0 +1,133 @@
+{
+  "device": "windows",
+  "steps": [
+    {
+      "title": "Passphrases",
+      "main": {
+        "text": [
+          "Is your computer locked with a long, random passphrase?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "No"
+        }
+      },
+      "back": {
+        "text": [
+          "The passphrase on your computer must be long, random and unique. Use a passphrase generator to get a truly random passphrase, not just one you think is hard to guess. GummyBear3272, for instance, is not random. This is extra important for your computer passphrase, since an attacker has unlimited tries to guess.",
+          "You’ll also want random, unique passphrases for every service you use online. Use a passphrase manager like KeePass or LastPass to generate, keep and organize your passphrases. <a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#creating-strong-passwords\" target=\"_blank\">Read more here</a>."
+        ],
+        "buttons": {
+          "next": "OK"
+        }
+      }
+    },
+    {
+      "title": "VPN",
+      "main": {
+        "text": [
+          "A VPN (Virtual Private Network) encrypts your web traffic, making it very difficult for your Internet Service Provider, the NSA, or some creep on Starbucks wi-fi to monitor your internet activity. Most VPNs charge a small fee, but it’s well worth the cost if you spend a lot of time working away from home, or on torrent sites.",
+          "Do you have and use a VPN?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "<a href=\"http://www.getavpn.org/\" target=\"_blank\">Get a VPN</a>. ",
+          "This VPN subscription can be used on up to 5 devices, including your phone and computer."
+        ],
+        "buttons": {
+          "next": "OK, Done"
+        }
+      }
+    },
+    {
+      "title": "Two-Factor Auth (2FA)",
+      "main": {
+        "text": [
+          "Do you use two factor authentication, a super-secure two-step sign-in process, for everything you can, especially email, social media accounts, and utilities?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "Find out what services offer two factor auth <a href=\"https://twofactorauth.org\" target=\"_blank\">here</a>."
+        ],
+        "buttons": {
+          "next": "OK, Done"
+        }
+      }
+    },
+    {
+      "title": "Encryption",
+      "main": {
+        "text": [
+          "Encrypting your hard drive protects you from hackers, but also protects your info if your device is lost or stolen.",
+          "Do you use a product like bitlocker or DiskCryptor (<a href=\"https://ssd.eff.org/en/node/49\" target=\"_blank\">read more</a>)?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "Encryption protects you from surveillance, but also protects your private information if your device is lost or stolen.",
+          "Learn more about encryption <a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#keeping-your-data-safe\" target=\"_blank\">here</a>."
+        ],
+        "buttons": {
+          "next": "OK, Done"
+        }
+      }
+    },
+    {
+      "title": "Antivirus",
+      "main": {
+        "text": [
+          "Running a regular antivirus scan keeps your computer running smoothly and lets you know if you’ve accidently downloaded any malware, or if your system has otherwise been compromised.",
+          "Do you use antivirus software?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "There are many different antivirus programs you can use. <a href=\"http://uk.pcmag.com/antivirus-reviews/142/guide/the-best-free-antivirus-protection-of-2016\" target=\"_blank\">Here</a> are some suggestions for free antivirus software.",
+        ],
+        "buttons": {
+          "next": "OK, Done"
+        }
+      }
+    },
+    {
+      "title": "Updates",
+      "main": {
+        "text": [
+          "Updates regularly include security patches for newly discovered vulnerabilities.",
+          "Is your system up to date?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "It can seem annoying, but it’s so important to update your operating system consistently. Updates can contain new security features or patches.",
+          "Learn how to update your Windows machine <a href=\"https://support.microsoft.com/en-us/help/12373/windows-update-faq\" target=\"_blank\">here</a>."
+        ],
+        "buttons": {
+          "next": "OK, Done"
+        }
+      }
+    }
+  ]
+}

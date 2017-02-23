@@ -1,0 +1,116 @@
+{
+  "device": "android",
+  "steps": [
+    {
+      "title": "Passphrases",
+      "main": {
+        "text": [
+          "Is your cell phone locked with a long, random password, not a thumbprint?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "No"
+        }
+      },
+      "back": {
+        "text": [
+          "<strong>You need to lock your phone.</strong> Even if you’ve encrypted your messages, someone who picks up your phone may be able to access anything on it if it’s not locked. Use at least 6 digits, and set your phone to wipe itself after a certain amount of password attempts. Roll some dice to get the numbers, if you want. If you’re worried about government surveillance, like police or customs officials, <a href=\"//mashable.com/2014/10/30/cops-can-force-you-to-unlock-phone-with-fingerprint-ruling\" target=\"_blank\">don’t use a fingerprint</a>",
+          "<a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#creating-strong-passwords\" target=\"_blank\">Read more about passwords here.</a>"
+        ],
+        "buttons": {
+          "next": "OK"
+        }
+      }
+    },
+    {
+      "title": "Encryption",
+      "main": {
+        "text": [
+          "Most Android phones come with full disk encryption, but some older models don’t, or are not fully protected. You can check by going to “Settings” and selecting “Security.”",
+          "Is your device encrypted?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "Encryption protects you from hackers, but it also protects your information if your device is lost or stolen.",
+          "Read more about Android encryption, and how to turn it on, <a href=\"http://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/\" target=\"_blank\">here</a>."
+        ],
+        "buttons": {
+          "next": "Done"
+        }
+      }
+    },
+    {
+      "title": "Messaging",
+      "main": {
+        "text": [
+          "Messaging apps like Facebook Messenger, Twitter DMs and SMS are easily accessed by bad actors and government spies.",
+          "Have you replaced less secure messaging with a service like Signal that uses end-to-end encryption, which means it’s virtually impossible to spy on?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "No"
+        }
+      },
+      "back": {
+        "text": [
+          "Encryption is a way of encoding messages so that only the intended recipient can read the content. Facebook Messenger has recently added encryption, but it’s not the default so you have to turn it on. Apps like Facebook and Twitter are not dependably secure forms of communication. Neither is SMS.",
+          "You may not feel like you need to use secure messages, but it’s still important - You don’t necessarily know the security needs of all the people you are communicating with. Encourage all your contacts to switch to Signal full-time and make your whole community more safe."
+        ],
+        "buttons": {
+          "link": {
+            "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en",
+            "text": "Get Signal"
+          },
+          "next": "Done"
+        }
+      }
+    },
+    {
+      "title": "VPN",
+      "main": {
+        "text": ["Do you use  a VPN (Virtual Private Network)? It secures your internet connection to guarantee that the data you're sending and receiving is encrypted and secured from prying eyes."],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "A VPN (Virtual Private Network) encrypts your web traffic, making it very difficult for your Internet Service Provider, the NSA, or some creep on Starbucks WiFi to monitor your internet activity. Most VPNs charge a small fee, but it’s well worth the cost if you spend a lot of time working away from home, or on torrent sites.",
+          "<a href=\"http://www.getavpn.org/\" target=\"_blank\">Get a VPN.</a>",
+          "This VPN subscription can be used on up to 5 devices, including your phone and computer."
+        ],
+        "buttons": {
+          "next": "Done"
+        }
+      }
+    },
+    {
+      "title": "Updates",
+      "main": {
+        "text": [
+          "<strong>As you read at the beginning of this section, not all Android phones receive security updates.</strong> System updates are critical because they include security patches for newly discovered vulnerabilities. One of the most common reasons that people get hacked is because they are running outdated software on their devices. Unfortunately, most carriers do not offer timely security updates for Android phones, if they offer them at all.",
+          "Are you being provided with, and installing security updates?"
+        ],
+        "buttons": {
+          "yes": "Yes",
+          "no": "Not Yet"
+        }
+      },
+      "back": {
+        "text": [
+          "Many Android older phones don’t have updates, and/or don’t keep up with security updates. Learn how to update your device, if it is possible <a href=\"http://www.wikihow.com/Update-an-Android\" target=\"_blank\">here</a>.",
+          "If you’re not able to update your phone, you should think about getting a new one. iPhones are more secure by default, but there are secure Android options. Here’s a list of the <a href=\"http://www.androidcentral.com/best-phone-security\" target=\"_blank\">most secure Android phones, as of November 2016</a>."
+        ],
+        "buttons": {
+          "next": "OK, Done"
+        }
+      }
+    }
+  ]
+}

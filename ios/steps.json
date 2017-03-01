@@ -18,7 +18,8 @@
           "<a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#creating-strong-passwords\" target=\"_blank\">Read more about passwords here.</a>"
         ],
         "buttons": {
-          "next": "OK"
+          "next": "OK, Done",
+          "later": "Later"
         }
       }
     },
@@ -37,14 +38,12 @@
       "back": {
         "text": [
           "Encryption is a way of encoding messages so that only the intended recipient can read the content. Facebook Messenger has recently added encryption, but it’s not the default so you have to turn it on. Apps like Facebook and Twitter are not dependably secure forms of communication. Neither is SMS.",
-          "You may not feel like you need to use secure messages, but it’s still important - You don’t necessarily know the security needs of all the people you are communicating with. Encourage all your contacts to switch to Signal full-time and make your whole community more safe."
+          "You may not feel like you need to use secure messages, but it’s still important - You don’t necessarily know the security needs of all the people you are communicating with. Encourage all your contacts to switch to Signal full-time and make your whole community more safe.",
+          "<a href=\"https://itunes.apple.com/us/app/signal-private-messenger/id874139669\" target=\"_blank\">Get Signal</a>"
         ],
         "buttons": {
-          "link": {
-            "url": "https://itunes.apple.com/us/app/signal-private-messenger/id874139669",
-            "text": "Get Signal"
-          },
-          "next": "Done"
+          "next": "OK, Done",
+          "later": "Later"
         }
       }
     },
@@ -64,7 +63,8 @@
           "This VPN subscription can be used on up to 5 devices, including your phone and computer."
         ],
         "buttons": {
-          "next": "Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -86,7 +86,8 @@
           "<a href=\"https://support.apple.com/en-us/HT204204\" target=\"_blank\">Update</a>"
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "OK, Done",
+          "later": "Later"
         }
       }
     }

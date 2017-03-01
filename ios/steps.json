@@ -18,7 +18,7 @@
           "<a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#creating-strong-passwords\" target=\"_blank\">Read more about passwords here.</a>"
         ],
         "buttons": {
-          "next": "OK, Done",
+          "next": "Done",
           "later": "Later"
         }
       }
@@ -42,7 +42,7 @@
           "<a href=\"https://itunes.apple.com/us/app/signal-private-messenger/id874139669\" target=\"_blank\">Get Signal</a>"
         ],
         "buttons": {
-          "next": "OK, Done",
+          "next": "Done",
           "later": "Later"
         }
       }
@@ -86,7 +86,7 @@
           "<a href=\"https://support.apple.com/en-us/HT204204\" target=\"_blank\">Update</a>"
         ],
         "buttons": {
-          "next": "OK, Done",
+          "next": "Done",
           "later": "Later"
         }
       }

@@ -46,6 +46,7 @@
     },
     {
       "title": "Two-Factor Auth (2FA)",
+      "bgTitle": "2FA",
       "main": {
         "text": [
           "Do you use two factor authentication, a super-secure two-step sign-in process, for everything you can, especially email, social media accounts, and utilities?"

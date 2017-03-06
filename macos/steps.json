@@ -18,7 +18,8 @@
           "You’ll also want random, unique passphrases for every service you use online. Use a passphrase manager like KeePass or LastPass to generate, keep and organize your passphrases. <a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#creating-strong-passwords\" target=\"_blank\">Read more here</a>."
         ],
         "buttons": {
-          "next": "OK"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -40,7 +41,8 @@
           "This VPN subscription can be used on up to 5 devices, including your phone and computer."
         ],
         "buttons": {
-          "next": "Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -61,7 +63,8 @@
           "Find out what services offer two factor auth <a href=\"https://twofactorauth.org\" target=\"_blank\">here</a>."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -83,7 +86,8 @@
           "Learn more about encryption <a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#keeping-your-data-safe\" target=\"_blank\">here</a>."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -105,7 +109,8 @@
           "There are many different anti-virus programs you can use. Here are some suggestions for <a href=\"http://www.digitaltrends.com/computing/best-free-antivirus-software-for-mac/\" target=\"_blank\">free antivirus software</a>."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -127,7 +132,8 @@
           "<a href=\"https://support.apple.com/en-us/HT201541\" target=\"_blank\">Learn how to update your Mac</a>"
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     }

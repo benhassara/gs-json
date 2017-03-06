@@ -18,7 +18,8 @@
           "<a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#creating-strong-passwords\" target=\"_blank\">Read more about passwords here.</a>"
         ],
         "buttons": {
-          "next": "OK"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -40,7 +41,8 @@
           "Read more about Android encryption, and how to turn it on, <a href=\"http://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/\" target=\"_blank\">here</a>."
         ],
         "buttons": {
-          "next": "Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -66,7 +68,8 @@
             "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en",
             "text": "Get Signal"
           },
-          "next": "Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -86,7 +89,8 @@
           "This VPN subscription can be used on up to 5 devices, including your phone and computer."
         ],
         "buttons": {
-          "next": "Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -108,7 +112,8 @@
           "If you’re not able to update your phone, you should think about getting a new one. iPhones are more secure by default, but there are secure Android options. Here’s a list of the <a href=\"http://www.androidcentral.com/best-phone-security\" target=\"_blank\">most secure Android phones, as of November 2016</a>."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     }

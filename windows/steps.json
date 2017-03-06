@@ -18,7 +18,8 @@
           "You’ll also want random, unique passphrases for every service you use online. Use a passphrase manager like KeePass or LastPass to generate, keep and organize your passphrases. <a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#creating-strong-passwords\" target=\"_blank\">Read more here</a>."
         ],
         "buttons": {
-          "next": "OK"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -40,7 +41,8 @@
           "This VPN subscription can be used on up to 5 devices, including your phone and computer."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -60,7 +62,8 @@
           "Find out what services offer two factor auth <a href=\"https://twofactorauth.org\" target=\"_blank\">here</a>."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -82,7 +85,8 @@
           "Learn more about encryption <a href=\"https://ssd.eff.org/en/playlist/want-security-starter-pack#keeping-your-data-safe\" target=\"_blank\">here</a>."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -103,7 +107,8 @@
           "There are many different antivirus programs you can use. <a href=\"http://uk.pcmag.com/antivirus-reviews/142/guide/the-best-free-antivirus-protection-of-2016\" target=\"_blank\">Here</a> are some suggestions for free antivirus software."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     },
@@ -125,7 +130,8 @@
           "Learn how to update your Windows machine <a href=\"https://support.microsoft.com/en-us/help/12373/windows-update-faq\" target=\"_blank\">here</a>."
         ],
         "buttons": {
-          "next": "OK, Done"
+          "next": "Done",
+          "later": "Later"
         }
       }
     }

@@ -61,13 +61,10 @@
       "back": {
         "text": [
           "Encryption is a way of encoding messages so that only the intended recipient can read the content. Facebook Messenger has recently added encryption, but it’s not the default so you have to turn it on. Apps like Facebook and Twitter are not dependably secure forms of communication. Neither is SMS.",
-          "You may not feel like you need to use secure messages, but it’s still important - You don’t necessarily know the security needs of all the people you are communicating with. Encourage all your contacts to switch to Signal full-time and make your whole community more safe."
+          "You may not feel like you need to use secure messages, but it’s still important - You don’t necessarily know the security needs of all the people you are communicating with. Encourage all your contacts to switch to Signal full-time and make your whole community more safe.",
+          "<a href=\"https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en\" target=\"_blank\">Get Signal</a>"
         ],
         "buttons": {
-          "link": {
-            "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en",
-            "text": "Get Signal"
-          },
           "next": "Done",
           "later": "Later"
         }
